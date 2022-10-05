@@ -8,6 +8,8 @@
 ![Tt]ools/packages.config
 [Oo]utput/
 ![Ii]nput/
+[Cc]ache/
+[Tt]emp/
 nuget.exe
 *.com
 *.class
