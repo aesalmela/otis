@@ -1,4 +1,5 @@
 Title: Rocky
+IsPost: false
 NavbarTitle: Rocky 1.0
 Lead: Jeff and Rocky share stories of their time in the military, whether its a good choice for their kids, and youth sports.
 Published: 09/19/2022
@@ -21,14 +22,3 @@ Here is a link of security footage prior to Rocky's arrest (Youtube -> Share -> 
 
 Here is Rocky in action coaching his baseball team:
 ![coach](/images/0001/Rocky_coaching.png)
-
-## Markdown
-The format of the text is controlled by Markdown.  Here are a few links around getting started with Markdown
-[Markdown for Dummies](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-[Getting Started - Markdown Guide](https://www.markdownguide.org/getting-started/)
-
-Feel free can google others.
-
-## Github
-Placeholder to add instructions on making changes and adding new episodes

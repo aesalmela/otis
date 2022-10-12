@@ -21,6 +21,10 @@ only the important stuff
 - Check the "Actions" tab for the new workflow run to turn from yellow/inprogress to green/complete and the new changes should be available on the site
 ![VerifyBuild](https://user-images.githubusercontent.com/33910171/195432211-edd2e178-0e63-4f34-8003-91c9c4cae649.png)
 
+## Local Development
+```dotnet run -- preview```
+Then browse to http://localhost:5080
+
 ## Markdown
 The format of the text is controlled by Markdown.  Here are a few links around getting started with Markdown
 [Markdown for Dummies](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)
